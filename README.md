@@ -10,7 +10,7 @@ No prerequisites are needed for running this project, as it uses standard web te
 
 
 
-#Usage
+###Usage
 Follow these steps to generate a password:
 
 1.Open the application in your web browser.
@@ -19,8 +19,8 @@ Follow these steps to generate a password:
 4.Evaluate the strength of the password displayed.
 5.Use the ‘Copy’ button to copy the password to your clipboard.
 
-#Project Link
+####Project Link
 https://github.com/shivanshsingh1705/PasswordGenerator
-<img src="" alt="Password Generator">
+<img src="https://github.com/shivanshsingh1705/PasswordGenerator/blob/main/OIP.jfif" alt="Password Generator">
 #Check out my project:
 
